@@ -18,9 +18,7 @@ enter_username.send_keys("<your username>")
 password.send_keys("<your password>")
 
 time.sleep(5)
-
 loginbutton.click()
-
 time.sleep(10)
 
 
